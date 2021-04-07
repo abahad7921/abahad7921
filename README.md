@@ -14,3 +14,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I can spend the entire day sitting at one place 😀
 
+[![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abahad7921)](https://github.com/abahad7921/github-readme-stats)
